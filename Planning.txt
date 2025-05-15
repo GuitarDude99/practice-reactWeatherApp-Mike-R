@@ -1,0 +1,10 @@
+OBJECTIVES
+Create React App Where;
+
+- MAIN PAGE lists Cities
+
+- CLicking on CITY, NAVIGATES to a FORECAST PAGE by utilizing (UseParams)
+
+- Forecast Page FETCHES mock weather data for selected city by utilizing useEffect
+
+-App has scroll button to scroll to the detailed weather section using useRef.
